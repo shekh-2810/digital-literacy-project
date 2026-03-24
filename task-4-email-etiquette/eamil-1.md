@@ -1,7 +1,8 @@
-Email-1 
+### Email-1 
 
-subject:Request for Extension on Assignment Submission -[Digital Litracy]
+*subject:* Request for Extension on Assignment Submission -[Digital Literacy]
 
+```
 Dear Professor Gupta,
 
 I hope you are doing well.
@@ -15,5 +16,5 @@ Thank you for your understanding and consideration.
 Sincerely,
 Shashank Shekhar Choudhary
 CSE
-
+```
 
