@@ -7,9 +7,13 @@ Dear Professor Gupta,
 
 I hope you are doing well.
 
-I am writing to request a short extension for the submission of the Digital Litracy Project, originally due on 31/03/26. Due to illness, I have been unable to complete the assignment to the expected standard within the given timeframe.
+I am writing to request a short extension for the submission of the Digital Litracy Project,
+originally due on 31/03/26. Due to illness, I have been unable to complete the assignment to
+the expected standard within the given timeframe.
 
-I understand the importance of deadlines and take full responsibility for the delay. I kindly request an extension of 2 days, and I assure you that I will submit quality work within this period.
+I understand the importance of deadlines and take full responsibility for the delay.
+I kindly request an extension of 2 days, and I assure you that I will submit quality
+work within this period.
 
 Thank you for your understanding and consideration.
 
