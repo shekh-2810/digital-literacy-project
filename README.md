@@ -1,13 +1,13 @@
 # Digital Literacy Portfolio  
-**Course:** CSE0001 – Digital Literacy 
+- **Course:** CSE0001 – Digital Literacy 
 
-**Name:** Shashank Shekhar Choudhary
+- **Name:** Shashank Shekhar Choudhary
 
-**Registration Number:** 25BCY10189
+- **Registration Number:** 25BCY10189
 
-**Branch:** CSE(Cyber Secutity)
+- **Branch:** CSE (Cyber Secutity)
 
-**University:** VIT Bhopal University  
+- **University:** VIT Bhopal University  
 
 ---
 
@@ -20,12 +20,12 @@ The repository contains five tasks covering different aspects of digital literac
 
 ## 📂 Repository Structure
 ```
+report/
 task-1-presentation/
 task-2-portfolio/
 task-3-platforms/
 task-4-email-etiquette/
 task-5-cybercrime/
-report/
 ```
 
 
