@@ -22,5 +22,5 @@ Thank you for your time and consideration.
 
 Sincerely,
 Shashank shekhar
-shashank@dumy.com
+shashank@dummy.com
 ```
