@@ -1,11 +1,11 @@
 # Case Study: UPI Payment Fraud Targeting College Students
 
-UPI (Unified Payments Interface) fraud is one of the most common cybercrimes in India, especially among students who frequently use digital payment apps like Google Pay, PhonePe, and Paytm. This type of fraud typically involves tricking users into authorizing a payment rather than receiving money.
+UPI (Unified Payments Interface) fraud is among the most prevalent cybercrimes in India, particularly affecting individuals who frequently use digital payment platforms such as Google Pay, PhonePe, and Paytm. This form of fraud generally involves deceiving users into approving a payment instead of receiving funds.
 
-A common scenario begins when a student posts an item for sale online or shares their contact details publicly. The attacker contacts them pretending to be a buyer and expresses urgency. The scammer then sends a “payment request” link or QR code, claiming it is required to receive money. The victim, assuming they are accepting payment, enters their UPI PIN, which actually authorizes a debit transaction.
+A typical situation begins when a person lists a product for sale on an online marketplace or social media platform. A fraudster contacts them pretending to be an interested buyer and creates a sense of urgency. The attacker then sends a “payment request” link or QR code, claiming it is required to receive money. The victim, believing they are accepting a payment, enters their UPI PIN, which actually authorizes a debit transaction from their account.
 
-In other cases, fraudsters impersonate bank officials or customer support agents and convince users to share OTPs or click malicious links. These attacks rely heavily on social engineering rather than technical hacking.
+In other instances, scammers impersonate bank representatives or customer support staff and persuade users to disclose OTPs or interact with malicious links. These scams depend largely on social engineering tactics rather than advanced technical methods.
 
-The primary targets are students and individuals with limited awareness of digital payment security. The consequences include direct financial loss, compromised bank accounts, and in some cases, identity misuse. Victims may also face stress and loss of trust in digital systems.
+The main targets are individuals with limited awareness of digital payment security practices. The outcomes can include financial loss, unauthorized access to bank accounts, and sometimes identity misuse. Victims may also experience stress and reduced confidence in digital systems.
 
-This case highlights the importance of understanding how UPI systems work and recognizing that entering a UPI PIN always means money is being sent, not received.
+This case emphasizes the need to understand how UPI systems operate and to recognize that entering a UPI PIN always confirms a payment being sent, not received.
